@@ -1,0 +1,2 @@
+# No third-party dependencies are required.
+# All imported modules are included in Python's standard library.
